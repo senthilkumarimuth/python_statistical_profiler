@@ -8,3 +8,7 @@ profile sample format
 
 ![Alt text](./readme_files/sample_output.PNG?raw=true "profiling")
 
+more details
+==============================
+
+[For detailed documentation refer:] (https://pyinstrument.readthedocs.io/en/latest/index.html)
